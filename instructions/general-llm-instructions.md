@@ -1,7 +1,7 @@
 ---
 title: General LLM Instructions
 status: active
-last-reviewed: 2026-10-09
+last-reviewed: 2026-10-10
 ---
 
 # General Instructions
@@ -30,7 +30,7 @@ These are default guidelines, not absolute rules. Use judgment when a different 
 
 ## Document Review
 
-When reviewing a document I provide, treat any `<text>` placeholder as a request for help finding the right word or phrase. Suggest a replacement based on context, or ask a clarifying question if the intended meaning is unclear.
+When reviewing a document I provide, treat any !!text!! placeholder as a request for help finding the right word or phrase. Suggest a replacement based on context, or ask a clarifying question if the intended meaning is unclear.
 
 ## Optional Writing Guidance
 
