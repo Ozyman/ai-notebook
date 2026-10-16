@@ -1,6 +1,7 @@
 # Index
 
 A curated map of the material in this repository. Add links here as notes accumulate.
+(This is already out of date - can I get AI to keep it up to date for me?  Or does it serve no purpose since you can just browse the files directly?)
 
 ## Instructions
 
